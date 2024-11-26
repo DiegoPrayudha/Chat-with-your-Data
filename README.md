@@ -1,5 +1,6 @@
 # chat-with-your-data
-A powerful RAG (Retrieval-Augmented Generation) chatbot that enables interactive question-answering using PDF documents through advanced language processing technologies.
+A powerful RAG (Retrieval-Augmented Generation) chatbot that enables interactive question-answering using PDF documents through advanced language processing technologies. <be>
+![RAG](SDSDSDSDSDSD)
 
 # Technologies Used
 
