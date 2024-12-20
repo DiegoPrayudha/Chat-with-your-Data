@@ -8,6 +8,7 @@ A powerful RAG (Retrieval-Augmented Generation) chatbot that enables interactive
 1. **LangChain** Open-source framework for developing context-aware reasoning applications
 2. **ChromaDB** High-performance vector database for efficient semantic search and document retrieval
 3. **HuggingFace** Platform for accessing state-of-the-art pre-trained language models
+4. **FastAPI** fast web framework for building APIs with Python based on standard Python type hints
 
 # Project Overview
 This project implements a sophisticated chatbot that allows users to interact with their PDF documents through intelligent semantic search and context-aware generation. By leveraging retrieval-augmented generation (RAG) techniques, the chatbot can understand and respond to queries based on the content of uploaded PDF files.
